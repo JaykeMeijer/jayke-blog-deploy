@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Jayke</title>
-    <link>https://jayke.nl/posts/</link>
-    <description>Recent content in Posts on Jayke</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 10:57:32 +0200</lastBuildDate><atom:link href="https://jayke.nl/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testing Deployment</title>
-      <link>https://jayke.nl/posts/testing-deployment/</link>
-      <pubDate>Sat, 06 Jul 2024 10:57:32 +0200</pubDate>
-      
-      <guid>https://jayke.nl/posts/testing-deployment/</guid>
-      
-      <description>This document will serve as a test for automatic deployment purposes.
-Initial attempt - can I deploy changes through GIT </description>
-      
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://jayke.nl/posts/hello-world/</link>
-      <pubDate>Thu, 04 Jul 2024 20:14:07 +0200</pubDate>
-      
-      <guid>https://jayke.nl/posts/hello-world/</guid>
-      
-      <description>Hello, world! I figured it was time to
-do something with the jayke.nl domain that I&amp;rsquo;ve had for a long time play around with some static site generation tooling and create a place where I can jot down some of my thoughts, or indulge in shameless self-promotion over some of the hobby projects I have done. Let&amp;rsquo;s see what comes of this. I&amp;rsquo;ll figure out over time whether I have anything relevant to share.</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Jayke</title><link>https://jayke.nl/posts/</link><description>Recent content in Posts on Jayke</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 10:57:32 +0200</lastBuildDate><atom:link href="https://jayke.nl/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Testing Deployment</title><link>https://jayke.nl/posts/testing-deployment/</link><pubDate>Sat, 06 Jul 2024 10:57:32 +0200</pubDate><guid>https://jayke.nl/posts/testing-deployment/</guid><description>This document will serve as a test for automatic deployment purposes.
+Initial attempt - can I deploy changes through GIT</description></item><item><title>Hello World</title><link>https://jayke.nl/posts/hello-world/</link><pubDate>Thu, 04 Jul 2024 20:14:07 +0200</pubDate><guid>https://jayke.nl/posts/hello-world/</guid><description>Hello, world! I figured it was time to
+do something with the jayke.nl domain that I&amp;rsquo;ve had for a long time play around with some static site generation tooling and create a place where I can jot down some of my thoughts, or indulge in shameless self-promotion over some of the hobby projects I have done. Let&amp;rsquo;s see what comes of this. I&amp;rsquo;ll figure out over time whether I have anything relevant to share.</description></item></channel></rss>
