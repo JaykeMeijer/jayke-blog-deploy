@@ -1,7 +1,7 @@
 {
     "name": "Jayke",
     "short_name": "Jayke",
-    "start_url": "http://localhost:1313/",
+    "start_url": "https://jayke.nl/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

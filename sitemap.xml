@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/drarwing-in-the-physical/</loc>
-    <lastmod>2024-07-04T21:08:12+02:00</lastmod>
+    <loc>https://jayke.nl/</loc>
+    <lastmod>2024-07-06T10:57:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-04T21:08:12+02:00</lastmod>
+    <loc>https://jayke.nl/posts/</loc>
+    <lastmod>2024-07-06T10:57:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-04T21:08:12+02:00</lastmod>
+    <loc>https://jayke.nl/posts/testing-deployment/</loc>
+    <lastmod>2024-07-06T10:57:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://jayke.nl/posts/hello-world/</loc>
     <lastmod>2024-07-04T20:14:07+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jayke.nl/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jayke.nl/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jayke.nl/tags/</loc>
   </url>
 </urlset>
